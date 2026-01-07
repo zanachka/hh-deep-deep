@@ -1,0 +1,14 @@
+./scripts/kafka-push.py
+./setup.py
+./hh_deep_deep/service.py
+./hh_deep_deep/crawl_utils.py
+./hh_deep_deep/utils.py
+./hh_deep_deep/dd_crawl.py
+./hh_deep_deep/__init__.py
+./hh_deep_deep/dd_utils.py
+./hh_deep_deep/deepdeep_crawl.py
+./hh_deep_deep/deep_crawl.py
+./tests/test_service.py
+./tests/__init__.py
+./tests/server.py
+./tests/test_dd_crawl_utils.py
